@@ -20,11 +20,11 @@ The system setup includes an Arduino Mega microcontroller and the DFR0763 NB-IoT
 ## Installation
 ### Libraries Required:
 
-- DFRobot_SIM7000
-- SoftwareSerial
-- Wire
-- RTClib
+- `DFRobot_SIM7000`
+- `SoftwareSerial`
+- `Wire`
+- `RTClib`
 ### Upload the Code:
 
 - Ensure that all libraries are installed in your Arduino IDE.
-- Update the THINGSPEAK_API_KEY with your own API write key.
+- Update the `THINGSPEAK_API_KEY` with your own API write key.
